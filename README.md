@@ -1,2 +1,1 @@
-# Deepfake-Detection-API
-Api for ultra fast deepfake detection for social media applications
+Implemented 2 research papers for comparison with custom model made for deepfake detection in social media application
